@@ -1,4 +1,6 @@
-hello-world
+Hi others
 ===========
 
-The very first repository
+My very first repository
+
+Studying to learn about GIT and maybe some coding for future.
